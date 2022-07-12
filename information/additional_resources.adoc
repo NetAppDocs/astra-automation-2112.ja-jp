@@ -18,7 +18,7 @@ summary:
 
 
 
-=== アストラ
+== アストラ
 
 * https://docs.netapp.com/us-en/astra-control-center-2112/["Astra Control Center 21.12 ドキュメント"^]
 +
@@ -44,7 +44,7 @@ summary:
 
 
 
-=== ネットアップのクラウドリソース
+== ネットアップのクラウドリソース
 
 * https://cloud.netapp.com/["ネットアップのクラウドソリューション"^]
 +
@@ -62,7 +62,7 @@ NetApp Cloud Central サービスコンソールにサインインします。
 
 
 
-=== REST の概念とクラウドテクノロジ
+== REST の概念とクラウドテクノロジ
 
 * 博士 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["失策"^] 著者 : Roy Fielding オリジナル版を読む
 +
