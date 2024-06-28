@@ -322,7 +322,6 @@
   <block id="afa765b35dc1feb232f57160727f2c44" category="list-text">REST API には、 Astra Web ユーザインターフェイスで生成できる API アクセストークンを使用してアクセスできます。API トークンを使用して、 API に安全にアクセスできます。</block>
   <block id="affb0039f4c476ad568439a171c9db0c" category="list-text">収集のサポート</block>
   <block id="39fc3040b9fe64cf202ce4de80bf7f69" category="list-text">リソースコレクションへのアクセスに使用できる豊富なクエリパラメータセットがあります。フィルタ、ソート、ページ付けなどの処理がサポートされます。</block>
-  <block id="c6c51849eeb1ac322baa3a99b7cd7e43" category="summary">Astra Automation の概要です。</block>
   <block id="d61b1a26306fd2300000d407ac76b0ca" category="doc">Astra Control Automation 21.12 ドキュメント</block>
   <block id="3e1ffa4f0f56cc64320d9813031ed226" category="doc">管理対象アプリケーションのバックアップを作成</block>
   <block id="dd4ad95efd478c84cdb33460b84c4a9e" category="paragraph">特定の管理対象アプリケーションのバックアップを作成できます。バックアップを使用して、アプリケーションのリストアやクローニングを行うことができます。</block>
@@ -865,4 +864,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="775e2faa120631457b3eb5f26a2f323a" category="sidebar">Astra Controlは、Kubernetesアプリケーションのデータライフサイクル管理を可能にするネットアップのソフトウェア製品です。環境に応じて2種類の導入モデルがあります。Astra Control CenterとAstra Control Serviceは、同じREST APIを特定のリリースで共有します。APIやその他の関連する自動化テクノロジを使用して、Astra Control環境を管理できます。</block>
 </blocks>
